@@ -30,11 +30,11 @@ public class Finances {
 
 
     public Finances(FinancesRequestDTO data) {
-        this.description = data.description();
-        this.amount = data.amount();
-        this.typeFinances = data.typeFinances();
-        this.repeat = data.repeat();
-        this.active = data.active();
-        this.userEmail = data.userEmail();
+        this.description = data.getDescription();
+        this.amount = data.getAmount();
+        this.typeFinances = data.getTypeFinances();
+        this.repeat = data.isRepeat();
+        this.active = data.isActive();
+        this.userEmail = data.getUserEmail();
     }
 }

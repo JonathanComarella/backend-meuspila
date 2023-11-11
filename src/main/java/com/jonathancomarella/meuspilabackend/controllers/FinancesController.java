@@ -3,7 +3,9 @@ package com.jonathancomarella.meuspilabackend.controllers;
 import com.jonathancomarella.meuspilabackend.domain.finances.Finances;
 import com.jonathancomarella.meuspilabackend.domain.finances.FinancesRequestDTO;
 import com.jonathancomarella.meuspilabackend.domain.finances.FinancesResponseDTO;
+import com.jonathancomarella.meuspilabackend.domain.user.User;
 import com.jonathancomarella.meuspilabackend.repositories.FinancesRepository;
+import com.jonathancomarella.meuspilabackend.repositories.UserRepository;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -19,15 +21,15 @@ public class FinancesController {
 
     @Autowired
     FinancesRepository repository;
+    @Autowired
+    UserRepository userRepository;
 
     @PostMapping
     public ResponseEntity postCreateFinances(@RequestBody @Valid FinancesRequestDTO body){
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
         // Obtém o email do usuario do contexto de segurança
-        String username = authentication.getName();
-
-
-        System.out.println(authentication.getName());
+        String email = authentication.getName();
+        body.setUserEmail(userRepository.findUserByEmail(email));
 
         Finances newFinances = new Finances(body);
 

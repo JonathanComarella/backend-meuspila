@@ -4,18 +4,25 @@ package com.jonathancomarella.meuspilabackend.domain.finances;
 import com.jonathancomarella.meuspilabackend.domain.user.User;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
+import lombok.*;
 
 import java.math.BigDecimal;
 
-public record FinancesRequestDTO(
+@Setter
+@Getter
+@NoArgsConstructor
+@AllArgsConstructor
+@EqualsAndHashCode(of = "id")
+public class FinancesRequestDTO {
+
+        private String id;
         @NotBlank
-        String description,
+        private String description;
         @NotNull
-        BigDecimal amount,
+        private BigDecimal amount;
         @NotBlank
-        String typeFinances,
-        boolean repeat,
-        boolean active,
-        User userEmail
-) {
+        private String typeFinances;
+        private boolean repeat;
+        private boolean active;
+        private User userEmail;
 }
