@@ -37,6 +37,15 @@ public class FinancesController {
         return ResponseEntity.ok().build();
     }
 
+    @GetMapping("/user")
+    public ResponseEntity getAllFinancesByEmail(){
+        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+        String email = authentication.getName();
+        List<FinancesResponseDTO> financesResponseDTOList = this.repository.findDistinctByUserEmail_Email(email).stream().map(FinancesResponseDTO::new).toList();
+
+        return ResponseEntity.ok(financesResponseDTOList);
+    }
+
     @GetMapping
     public ResponseEntity getAllFinances(){
         List<FinancesResponseDTO> financesResponseDTOList = this.repository.findAll().stream().map(FinancesResponseDTO::new).toList();
