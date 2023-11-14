@@ -1,18 +1,17 @@
 package com.jonathancomarella.meuspilabackend.controllers;
 
-import com.jonathancomarella.meuspilabackend.domain.finances.Finances;
 import com.jonathancomarella.meuspilabackend.domain.finances.FinancesRequestDTO;
 import com.jonathancomarella.meuspilabackend.domain.finances.FinancesResponseDTO;
-import com.jonathancomarella.meuspilabackend.domain.user.User;
-import com.jonathancomarella.meuspilabackend.repositories.FinancesRepository;
-import com.jonathancomarella.meuspilabackend.repositories.UserRepository;
+import com.jonathancomarella.meuspilabackend.services.FinancesService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.web.bind.annotation.*;
+import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
+import java.net.URI;
 import java.util.List;
 
 @RestController
@@ -20,36 +19,35 @@ import java.util.List;
 public class FinancesController {
 
     @Autowired
-    FinancesRepository repository;
-    @Autowired
-    UserRepository userRepository;
+    private FinancesService service;
+
 
     @PostMapping
     public ResponseEntity postCreateFinances(@RequestBody @Valid FinancesRequestDTO body){
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
-        // Obtém o email do usuario do contexto de segurança
-        String email = authentication.getName();
-        body.setUserEmail(userRepository.findUserByEmail(email));
+        FinancesResponseDTO newFinance = service.createFinance(body, authentication.getName());
 
-        Finances newFinances = new Finances(body);
+        URI uri = ServletUriComponentsBuilder.fromCurrentRequest().path("/{id}").buildAndExpand(body.getId()).toUri();
+        return ResponseEntity.created(uri).body(newFinance);
+    }
 
-        this.repository.save(newFinances);
-        return ResponseEntity.ok().build();
+    @GetMapping("/{id}")
+    public ResponseEntity getById(@PathVariable String id){
+        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
+        FinancesResponseDTO financesResponseDTO = service.findById(id);
+        return ResponseEntity.ok(financesResponseDTO);
     }
 
     @GetMapping("/user")
     public ResponseEntity getAllFinancesByEmail(){
         Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
-        String email = authentication.getName();
-        List<FinancesResponseDTO> financesResponseDTOList = this.repository.findDistinctByUserEmail_Email(email).stream().map(FinancesResponseDTO::new).toList();
-
+        List<FinancesResponseDTO> financesResponseDTOList = service.findAllFinancesByEmail(authentication.getName());
         return ResponseEntity.ok(financesResponseDTOList);
     }
 
     @GetMapping
     public ResponseEntity getAllFinances(){
-        List<FinancesResponseDTO> financesResponseDTOList = this.repository.findAll().stream().map(FinancesResponseDTO::new).toList();
-
+        List<FinancesResponseDTO> financesResponseDTOList = service.findAllFinances();
         return ResponseEntity.ok(financesResponseDTOList);
     }
 }
