@@ -50,4 +50,16 @@ public class FinancesController {
         List<FinancesResponseDTO> financesResponseDTOList = service.findAllFinances();
         return ResponseEntity.ok(financesResponseDTOList);
     }
+
+    @DeleteMapping("/{id}")
+    public ResponseEntity deleteById(@PathVariable String id){
+        service.delete(id);
+        return ResponseEntity.noContent().build();
+    }
+
+    @PutMapping("/{id}")
+    public ResponseEntity update(@PathVariable String id, @Valid @RequestBody FinancesResponseDTO body) {
+        body = service.update(id, body);
+        return ResponseEntity.ok().body(body);
+    }
 }

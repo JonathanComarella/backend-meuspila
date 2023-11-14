@@ -1,4 +1,4 @@
-package com.jonathancomarella.meuspilabackend.infra.security;
+package com.jonathancomarella.meuspilabackend.config;
 
 import com.jonathancomarella.meuspilabackend.repositories.UserRepository;
 import jakarta.servlet.FilterChain;

@@ -1,4 +1,4 @@
-package com.jonathancomarella.meuspilabackend.infra.security;
+package com.jonathancomarella.meuspilabackend.config;
 
 
 import com.auth0.jwt.JWT;
@@ -46,6 +46,6 @@ public class TokenService {
     }
 
     private Instant genExpirationDate(){
-        return LocalDateTime.now().plusHours(2).toInstant(ZoneOffset.of("-03:00"));
+        return LocalDateTime.now().plusHours(1).toInstant(ZoneOffset.of("-03:00"));
     }
 }

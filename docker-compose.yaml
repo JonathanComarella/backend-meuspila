@@ -1,0 +1,16 @@
+version: '3'
+services:
+  postgres:
+    image: postgres:latest
+    container_name: meuspilalocal
+    environment:
+      POSTGRES_DB: meuspilalocal
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: 123456
+    ports:
+      - "5432:5432" # Mapeie a porta do contêiner para a porta do host (opcional)
+    volumes:
+      - postgres_data:/var/lib/postgresql/data # Mapeie um volume para persistência dos dados (opcional)
+
+volumes:
+  postgres_data:
