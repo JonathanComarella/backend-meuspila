@@ -1,9 +1,12 @@
 package com.jonathancomarella.meuspilabackend.controllers;
 
+import com.jonathancomarella.meuspilabackend.MeuspilaBackendApplication;
 import com.jonathancomarella.meuspilabackend.domain.finances.FinancesRequestDTO;
 import com.jonathancomarella.meuspilabackend.domain.finances.FinancesResponseDTO;
 import com.jonathancomarella.meuspilabackend.services.FinancesService;
 import jakarta.validation.Valid;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.core.Authentication;
@@ -17,6 +20,8 @@ import java.util.List;
 @RestController
 @RequestMapping("finances")
 public class FinancesController {
+
+    private static Logger logger = LoggerFactory.getLogger(MeuspilaBackendApplication.class);
 
     @Autowired
     private FinancesService service;
@@ -53,13 +58,17 @@ public class FinancesController {
 
     @DeleteMapping("/{id}")
     public ResponseEntity deleteById(@PathVariable String id){
+        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
         service.delete(id);
+        logger.info(authentication.getName() + " - Deletou Finance: " + id);
         return ResponseEntity.noContent().build();
     }
 
     @PutMapping("/{id}")
     public ResponseEntity update(@PathVariable String id, @Valid @RequestBody FinancesResponseDTO body) {
+        Authentication authentication = SecurityContextHolder.getContext().getAuthentication();
         body = service.update(id, body);
+        logger.info(authentication.getName() + " - Atualizou a Finance: " + id);
         return ResponseEntity.ok().body(body);
     }
 }

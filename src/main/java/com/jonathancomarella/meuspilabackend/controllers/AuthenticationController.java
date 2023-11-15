@@ -1,7 +1,7 @@
 package com.jonathancomarella.meuspilabackend.controllers;
 
 import com.jonathancomarella.meuspilabackend.domain.user.*;
-import com.jonathancomarella.meuspilabackend.config.TokenService;
+import com.jonathancomarella.meuspilabackend.services.TokenService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -24,7 +24,6 @@ public class AuthenticationController {
         var auth = this.authenticationManager.authenticate(usernamePassword);
 
         var token = tokenService.generateToken((User) auth.getPrincipal());
-
         return ResponseEntity.ok(new LoginResponseDTO(token));
     }
 }

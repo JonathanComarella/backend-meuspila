@@ -1,6 +1,7 @@
 package com.jonathancomarella.meuspilabackend.config;
 
 import com.jonathancomarella.meuspilabackend.repositories.UserRepository;
+import com.jonathancomarella.meuspilabackend.services.TokenService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

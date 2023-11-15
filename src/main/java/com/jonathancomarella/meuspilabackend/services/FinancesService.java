@@ -1,11 +1,14 @@
 package com.jonathancomarella.meuspilabackend.services;
 
+import com.jonathancomarella.meuspilabackend.MeuspilaBackendApplication;
 import com.jonathancomarella.meuspilabackend.domain.finances.Finances;
 import com.jonathancomarella.meuspilabackend.domain.finances.FinancesRequestDTO;
 import com.jonathancomarella.meuspilabackend.domain.finances.FinancesResponseDTO;
 import com.jonathancomarella.meuspilabackend.repositories.FinancesRepository;
 import com.jonathancomarella.meuspilabackend.repositories.UserRepository;
 import jakarta.persistence.EntityNotFoundException;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.dao.EmptyResultDataAccessException;
@@ -19,6 +22,8 @@ import java.util.Optional;
 @Service
 public class FinancesService {
 
+    private static Logger logger = LoggerFactory.getLogger(MeuspilaBackendApplication.class);
+
     @Autowired
     private FinancesRepository financesRepository;
     @Autowired
@@ -26,12 +31,15 @@ public class FinancesService {
 
     @Transactional(readOnly = true)
     public List<FinancesResponseDTO> findAllFinancesByEmail(String email) {
+        logger.info(email + " - Buscando todas as finances");
         List<FinancesResponseDTO> financesResponseDTOList = financesRepository.findDistinctByUserEmail_Email(email).stream().map(FinancesResponseDTO::new).toList();
+        logger.info(email + " - Todas finances retornadas com sucesso!");
         return financesResponseDTOList;
     }
 
     @Transactional(readOnly = true)
     public List<FinancesResponseDTO> findAllFinances() {
+        logger.info("Buscando todas finances");
         List<FinancesResponseDTO> financesResponseDTOList = financesRepository.findAll().stream().map(FinancesResponseDTO::new).toList();
         return financesResponseDTOList;
     }
@@ -47,9 +55,11 @@ public class FinancesService {
 
     @Transactional
     public FinancesResponseDTO createFinance(FinancesRequestDTO body, String email) {
+        logger.info(email + " - Criando uma nova finance");
         body.setUserEmail(userRepository.findUserByEmail(email));
         Finances newFinances = new Finances(body);
         newFinances = financesRepository.save(newFinances);
+        logger.info(email + " - Finance criada com sucesso");
         return new FinancesResponseDTO(newFinances);
     }
 
