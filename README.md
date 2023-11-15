@@ -1,7 +1,18 @@
 # Meus Pila - Controle Financeiro (Backend)
 
-> O Projeto Meus Pila nasceu com o intuito de simplificar o gerenciamento de suas finanças pessoais, oferecendo uma interface intuitiva e fácil de usar. Registre despesas, acompanhe receitas e visualize orçamentos de forma rápida, proporcionando um gerenciamento financeiro eficiente em apenas alguns cliques.
+> API que visa disponibilizar que um usuário realize o cadastro, faça login e consiga utilizar alguns endpoints como: 
+> Cadastrar Despesas e Receitas.
 
 ### 🚀 Ajustes e melhorias
 
-O Backend ainda está em desenvolvimento!
+O Projeto vai passar ainda por alterações, a fim de criar novas features.
+
+### Tecnologias
+- Java 17
+- Spring
+- Postgres
+- Docker
+
+### API ainda está em desenvolvimento.
+
+
