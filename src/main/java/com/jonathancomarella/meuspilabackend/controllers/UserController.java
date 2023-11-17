@@ -3,6 +3,7 @@ package com.jonathancomarella.meuspilabackend.controllers;
 import com.jonathancomarella.meuspilabackend.domain.user.RegisterDTO;
 import com.jonathancomarella.meuspilabackend.domain.user.UserResponseDTO;
 import com.jonathancomarella.meuspilabackend.services.UserService;
+import io.swagger.v3.oas.annotations.security.SecurityRequirement;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -14,6 +15,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("user")
+@SecurityRequirement(name = "bearer-key")
 public class UserController {
 
     @Autowired
