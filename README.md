@@ -8,7 +8,7 @@
 O Projeto vai passar ainda por alterações, a fim de criar novas features.
 
 ### Tecnologias
-- Java 17
+- Java 21
 - Spring
 - Postgres
 - Docker
