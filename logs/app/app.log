@@ -8,3 +8,27 @@
 16-11-2023 23:46:54.687 | 49068 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
 16-11-2023 23:48:02.428 | 116809 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - Buscando todas finances
 16-11-2023 23:49:09.127 | 183508 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - Buscando todas finances
+13-02-2024 14:24:50.331 | 440  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+13-02-2024 14:24:50.532 | 641  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+13-02-2024 14:24:50.989 | 1098 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.1 with PID 13017 (/home/jonathan/projetos/backend-meuspila/target/classes started by jonathan in /home/jonathan/projetos/backend-meuspila)
+13-02-2024 14:24:50.991 | 1100 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+13-02-2024 14:24:55.967 | 6076 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Started MeuspilaBackendApplication in 5.42 seconds (process running for 6.365)
+13-02-2024 14:24:55.972 | 6081 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - API Meuspila iniciada com sucesso!
+13-02-2024 14:29:55.567 | 609  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+13-02-2024 14:29:55.819 | 861  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+13-02-2024 14:29:56.396 | 1438 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.1 with PID 14251 (/home/jonathan/projetos/backend-meuspila/target/classes started by jonathan in /home/jonathan/projetos/backend-meuspila)
+13-02-2024 14:29:56.397 | 1439 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+13-02-2024 14:30:03.553 | 8595 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Started MeuspilaBackendApplication in 7.726 seconds (process running for 9.49)
+13-02-2024 14:30:03.559 | 8601 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - API Meuspila iniciada com sucesso!
+13-02-2024 14:32:40.306 | 563  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+13-02-2024 14:32:40.575 | 832  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+13-02-2024 14:32:41.165 | 1422 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.1 with PID 14391 (/home/jonathan/projetos/backend-meuspila/target/classes started by jonathan in /home/jonathan/projetos/backend-meuspila)
+13-02-2024 14:32:41.167 | 1424 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+13-02-2024 14:32:47.849 | 8106 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Started MeuspilaBackendApplication in 7.267 seconds (process running for 8.504)
+13-02-2024 14:32:47.857 | 8114 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - API Meuspila iniciada com sucesso!
+13-02-2024 14:43:01.093 | 426  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+13-02-2024 14:43:01.314 | 647  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+13-02-2024 14:43:01.823 | 1156 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.1 with PID 14865 (/home/jonathan/projetos/backend-meuspila/target/classes started by jonathan in /home/jonathan/projetos/backend-meuspila)
+13-02-2024 14:43:01.825 | 1158 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+13-02-2024 14:43:11.198 | 10531 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Started MeuspilaBackendApplication in 9.878 seconds (process running for 10.775)
+13-02-2024 14:43:11.212 | 10545 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - API Meuspila iniciada com sucesso!

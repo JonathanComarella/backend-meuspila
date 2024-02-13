@@ -6,7 +6,7 @@ import com.auth0.jwt.algorithms.Algorithm;
 import com.auth0.jwt.exceptions.JWTCreationException;
 import com.auth0.jwt.exceptions.JWTVerificationException;
 import com.jonathancomarella.meuspilabackend.MeuspilaBackendApplication;
-import com.jonathancomarella.meuspilabackend.domain.user.User;
+import com.jonathancomarella.meuspilabackend.domain.User;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Value;

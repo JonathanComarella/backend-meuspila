@@ -1,7 +1,7 @@
 package com.jonathancomarella.meuspilabackend.repositories;
 
 
-import com.jonathancomarella.meuspilabackend.domain.user.User;
+import com.jonathancomarella.meuspilabackend.domain.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.security.core.userdetails.UserDetails;
 

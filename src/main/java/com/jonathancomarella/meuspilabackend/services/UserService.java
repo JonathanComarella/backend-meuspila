@@ -1,8 +1,8 @@
 package com.jonathancomarella.meuspilabackend.services;
 
-import com.jonathancomarella.meuspilabackend.domain.user.RegisterDTO;
-import com.jonathancomarella.meuspilabackend.domain.user.User;
-import com.jonathancomarella.meuspilabackend.domain.user.UserResponseDTO;
+import com.jonathancomarella.meuspilabackend.domain.dto.request.RegisterDTO;
+import com.jonathancomarella.meuspilabackend.domain.User;
+import com.jonathancomarella.meuspilabackend.domain.dto.response.UserResponseDTO;
 import com.jonathancomarella.meuspilabackend.repositories.UserRepository;
 import jakarta.persistence.EntityNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;

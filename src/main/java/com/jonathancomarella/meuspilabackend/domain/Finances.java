@@ -1,6 +1,6 @@
-package com.jonathancomarella.meuspilabackend.domain.finances;
+package com.jonathancomarella.meuspilabackend.domain;
 
-import com.jonathancomarella.meuspilabackend.domain.user.User;
+import com.jonathancomarella.meuspilabackend.domain.dto.request.FinancesRequestDTO;
 import jakarta.persistence.*;
 import lombok.*;
 

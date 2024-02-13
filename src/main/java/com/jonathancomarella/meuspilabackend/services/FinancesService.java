@@ -1,9 +1,9 @@
 package com.jonathancomarella.meuspilabackend.services;
 
 import com.jonathancomarella.meuspilabackend.MeuspilaBackendApplication;
-import com.jonathancomarella.meuspilabackend.domain.finances.Finances;
-import com.jonathancomarella.meuspilabackend.domain.finances.FinancesRequestDTO;
-import com.jonathancomarella.meuspilabackend.domain.finances.FinancesResponseDTO;
+import com.jonathancomarella.meuspilabackend.domain.Finances;
+import com.jonathancomarella.meuspilabackend.domain.dto.request.FinancesRequestDTO;
+import com.jonathancomarella.meuspilabackend.domain.dto.response.FinancesResponseDTO;
 import com.jonathancomarella.meuspilabackend.repositories.FinancesRepository;
 import com.jonathancomarella.meuspilabackend.repositories.UserRepository;
 import jakarta.persistence.EntityNotFoundException;

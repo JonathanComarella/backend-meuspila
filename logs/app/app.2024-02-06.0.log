@@ -1,0 +1,10 @@
+16-11-2023 23:46:05.963 | 344  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+16-11-2023 23:46:06.152 | 533  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+16-11-2023 23:46:06.476 | 857  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 17.0.8.1 with PID 29334 (/home/jonathan/projetos/meuspilabackend/meuspila-backend/target/classes started by jonathan in /home/jonathan/projetos/meuspilabackend/meuspila-backend)
+16-11-2023 23:46:06.477 | 858  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+16-11-2023 23:46:11.095 | 5476 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Started MeuspilaBackendApplication in 4.937 seconds (process running for 5.983)
+16-11-2023 23:46:11.099 | 5480 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - API Meuspila iniciada com sucesso!
+16-11-2023 23:46:54.673 | 49054 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+16-11-2023 23:46:54.687 | 49068 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+16-11-2023 23:48:02.428 | 116809 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - Buscando todas finances
+16-11-2023 23:49:09.127 | 183508 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - Buscando todas finances

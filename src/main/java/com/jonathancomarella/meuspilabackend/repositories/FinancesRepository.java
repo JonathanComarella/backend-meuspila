@@ -1,6 +1,6 @@
 package com.jonathancomarella.meuspilabackend.repositories;
 
-import com.jonathancomarella.meuspilabackend.domain.finances.Finances;
+import com.jonathancomarella.meuspilabackend.domain.Finances;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

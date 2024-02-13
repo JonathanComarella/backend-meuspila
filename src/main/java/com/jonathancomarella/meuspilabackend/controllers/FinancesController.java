@@ -1,8 +1,8 @@
 package com.jonathancomarella.meuspilabackend.controllers;
 
 import com.jonathancomarella.meuspilabackend.MeuspilaBackendApplication;
-import com.jonathancomarella.meuspilabackend.domain.finances.FinancesRequestDTO;
-import com.jonathancomarella.meuspilabackend.domain.finances.FinancesResponseDTO;
+import com.jonathancomarella.meuspilabackend.domain.dto.request.FinancesRequestDTO;
+import com.jonathancomarella.meuspilabackend.domain.dto.response.FinancesResponseDTO;
 import com.jonathancomarella.meuspilabackend.services.FinancesService;
 import io.swagger.v3.oas.annotations.security.SecurityRequirement;
 import jakarta.validation.Valid;

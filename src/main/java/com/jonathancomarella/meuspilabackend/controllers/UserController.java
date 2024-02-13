@@ -1,7 +1,7 @@
 package com.jonathancomarella.meuspilabackend.controllers;
 
-import com.jonathancomarella.meuspilabackend.domain.user.RegisterDTO;
-import com.jonathancomarella.meuspilabackend.domain.user.UserResponseDTO;
+import com.jonathancomarella.meuspilabackend.domain.dto.request.RegisterDTO;
+import com.jonathancomarella.meuspilabackend.domain.dto.response.UserResponseDTO;
 import com.jonathancomarella.meuspilabackend.services.UserService;
 import io.swagger.v3.oas.annotations.security.SecurityRequirement;
 import jakarta.validation.Valid;

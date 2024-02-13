@@ -1,6 +1,5 @@
-package com.jonathancomarella.meuspilabackend.domain.user;
+package com.jonathancomarella.meuspilabackend.domain;
 
-import com.jonathancomarella.meuspilabackend.domain.finances.Finances;
 import jakarta.persistence.*;
 import lombok.*;
 import org.springframework.security.core.GrantedAuthority;
@@ -27,11 +26,11 @@ public class User implements UserDetails {
     private String password;
     private String firstname;
     private String lastname;
-    private UserRole role;
+    private UserRoleEnum role;
     @OneToMany(mappedBy = "userEmail", cascade = CascadeType.ALL)
     private Set<Finances> finances;
 
-    public User(String email, String password, String firstname, String lastname, UserRole role) {
+    public User(String email, String password, String firstname, String lastname, UserRoleEnum role) {
         this.email = email;
         this.password = password;
         this.firstname = firstname;
@@ -39,7 +38,7 @@ public class User implements UserDetails {
         this.role = role;
     }
 
-    public User(String email, String password, UserRole role){
+    public User(String email, String password, UserRoleEnum role){
         this.email = email;
         this.password = password;
         this.role = role;
@@ -47,7 +46,7 @@ public class User implements UserDetails {
 
     @Override
     public Collection<? extends GrantedAuthority> getAuthorities() {
-        if(this.role == UserRole.ADMIN) return List.of(new SimpleGrantedAuthority("ROLE_ADMIN"), new SimpleGrantedAuthority("ROLE_USER"));
+        if(this.role == UserRoleEnum.ADMIN) return List.of(new SimpleGrantedAuthority("ROLE_ADMIN"), new SimpleGrantedAuthority("ROLE_USER"));
         else return List.of(new SimpleGrantedAuthority("ROLE_USER"));
     }
 

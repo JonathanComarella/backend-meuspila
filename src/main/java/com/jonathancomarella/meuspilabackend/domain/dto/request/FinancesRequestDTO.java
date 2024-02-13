@@ -1,7 +1,7 @@
-package com.jonathancomarella.meuspilabackend.domain.finances;
+package com.jonathancomarella.meuspilabackend.domain.dto.request;
 
 
-import com.jonathancomarella.meuspilabackend.domain.user.User;
+import com.jonathancomarella.meuspilabackend.domain.User;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
 import lombok.*;

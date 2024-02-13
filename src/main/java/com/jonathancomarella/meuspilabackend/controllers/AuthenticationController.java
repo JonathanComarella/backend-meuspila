@@ -1,6 +1,8 @@
 package com.jonathancomarella.meuspilabackend.controllers;
 
-import com.jonathancomarella.meuspilabackend.domain.user.*;
+import com.jonathancomarella.meuspilabackend.domain.User;
+import com.jonathancomarella.meuspilabackend.domain.dto.request.AuthenticationDTO;
+import com.jonathancomarella.meuspilabackend.domain.dto.response.LoginResponseDTO;
 import com.jonathancomarella.meuspilabackend.services.TokenService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
