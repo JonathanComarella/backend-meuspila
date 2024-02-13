@@ -32,3 +32,19 @@
 13-02-2024 14:43:01.825 | 1158 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
 13-02-2024 14:43:11.198 | 10531 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Started MeuspilaBackendApplication in 9.878 seconds (process running for 10.775)
 13-02-2024 14:43:11.212 | 10545 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - API Meuspila iniciada com sucesso!
+13-02-2024 14:57:02.504 | 524  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+13-02-2024 14:57:02.678 | 698  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+13-02-2024 14:57:03.190 | 1210 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.1 with PID 15444 (/home/jonathan/projetos/backend-meuspila/target/classes started by jonathan in /home/jonathan/projetos/backend-meuspila)
+13-02-2024 14:57:03.191 | 1211 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+13-02-2024 14:57:09.189 | 7209 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Started MeuspilaBackendApplication in 6.504 seconds (process running for 7.485)
+13-02-2024 14:57:09.194 | 7214 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - API Meuspila iniciada com sucesso!
+13-02-2024 14:57:28.018 | 401  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+13-02-2024 14:57:28.188 | 571  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+13-02-2024 14:57:28.643 | 1026 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.1 with PID 15582 (/home/jonathan/projetos/backend-meuspila/target/classes started by jonathan in /home/jonathan/projetos/backend-meuspila)
+13-02-2024 14:57:28.644 | 1027 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+13-02-2024 14:57:33.766 | 6149 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Started MeuspilaBackendApplication in 5.564 seconds (process running for 6.388)
+13-02-2024 14:57:33.774 | 6157 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - API Meuspila iniciada com sucesso!
+13-02-2024 14:57:54.758 | 27141 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+13-02-2024 14:57:54.772 | 27155 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+13-02-2024 14:58:34.673 | 67056 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+13-02-2024 14:58:34.674 | 67057 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
