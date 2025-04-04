@@ -90,6 +90,7 @@ public class FinancesService {
         entity.setDescription(dto.description());
         entity.setAmount(dto.amount());
         entity.setTypeFinances(dto.typeFinances());
+        entity.setStatus(dto.status());
         entity.setRepeat(dto.repeat());
         entity.setActive(dto.active());
     }

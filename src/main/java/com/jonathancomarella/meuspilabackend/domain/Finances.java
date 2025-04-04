@@ -22,6 +22,8 @@ public class Finances {
     private BigDecimal amount;
     @Column(name = "typefinances")
     private String typeFinances;
+    @Enumerated(EnumType.STRING)
+    private StatusFinance status;
     private boolean repeat;
     private boolean active;
     @ManyToOne
@@ -33,8 +35,16 @@ public class Finances {
         this.description = data.getDescription();
         this.amount = data.getAmount();
         this.typeFinances = data.getTypeFinances();
+        this.status = data.getStatus();
         this.repeat = data.isRepeat();
         this.active = data.isActive();
         this.userEmail = data.getUserEmail();
+    }
+
+    @PrePersist
+    public void prePersist() {
+        if (status == null) {
+            status = StatusFinance.PENDENTE;
+        }
     }
 }

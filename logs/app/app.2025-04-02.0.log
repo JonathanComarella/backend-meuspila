@@ -1,0 +1,321 @@
+16-11-2023 23:46:05.963 | 344  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+16-11-2023 23:46:06.152 | 533  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+16-11-2023 23:46:06.476 | 857  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 17.0.8.1 with PID 29334 (/home/jonathan/projetos/meuspilabackend/meuspila-backend/target/classes started by jonathan in /home/jonathan/projetos/meuspilabackend/meuspila-backend)
+16-11-2023 23:46:06.477 | 858  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+16-11-2023 23:46:11.095 | 5476 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Started MeuspilaBackendApplication in 4.937 seconds (process running for 5.983)
+16-11-2023 23:46:11.099 | 5480 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - API Meuspila iniciada com sucesso!
+16-11-2023 23:46:54.673 | 49054 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+16-11-2023 23:46:54.687 | 49068 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+16-11-2023 23:48:02.428 | 116809 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - Buscando todas finances
+16-11-2023 23:49:09.127 | 183508 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - Buscando todas finances
+13-02-2024 14:24:50.331 | 440  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+13-02-2024 14:24:50.532 | 641  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+13-02-2024 14:24:50.989 | 1098 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.1 with PID 13017 (/home/jonathan/projetos/backend-meuspila/target/classes started by jonathan in /home/jonathan/projetos/backend-meuspila)
+13-02-2024 14:24:50.991 | 1100 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+13-02-2024 14:24:55.967 | 6076 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Started MeuspilaBackendApplication in 5.42 seconds (process running for 6.365)
+13-02-2024 14:24:55.972 | 6081 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - API Meuspila iniciada com sucesso!
+13-02-2024 14:29:55.567 | 609  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+13-02-2024 14:29:55.819 | 861  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+13-02-2024 14:29:56.396 | 1438 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.1 with PID 14251 (/home/jonathan/projetos/backend-meuspila/target/classes started by jonathan in /home/jonathan/projetos/backend-meuspila)
+13-02-2024 14:29:56.397 | 1439 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+13-02-2024 14:30:03.553 | 8595 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Started MeuspilaBackendApplication in 7.726 seconds (process running for 9.49)
+13-02-2024 14:30:03.559 | 8601 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - API Meuspila iniciada com sucesso!
+13-02-2024 14:32:40.306 | 563  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+13-02-2024 14:32:40.575 | 832  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+13-02-2024 14:32:41.165 | 1422 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.1 with PID 14391 (/home/jonathan/projetos/backend-meuspila/target/classes started by jonathan in /home/jonathan/projetos/backend-meuspila)
+13-02-2024 14:32:41.167 | 1424 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+13-02-2024 14:32:47.849 | 8106 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Started MeuspilaBackendApplication in 7.267 seconds (process running for 8.504)
+13-02-2024 14:32:47.857 | 8114 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - API Meuspila iniciada com sucesso!
+13-02-2024 14:43:01.093 | 426  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+13-02-2024 14:43:01.314 | 647  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+13-02-2024 14:43:01.823 | 1156 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.1 with PID 14865 (/home/jonathan/projetos/backend-meuspila/target/classes started by jonathan in /home/jonathan/projetos/backend-meuspila)
+13-02-2024 14:43:01.825 | 1158 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+13-02-2024 14:43:11.198 | 10531 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Started MeuspilaBackendApplication in 9.878 seconds (process running for 10.775)
+13-02-2024 14:43:11.212 | 10545 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - API Meuspila iniciada com sucesso!
+13-02-2024 14:57:02.504 | 524  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+13-02-2024 14:57:02.678 | 698  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+13-02-2024 14:57:03.190 | 1210 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.1 with PID 15444 (/home/jonathan/projetos/backend-meuspila/target/classes started by jonathan in /home/jonathan/projetos/backend-meuspila)
+13-02-2024 14:57:03.191 | 1211 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+13-02-2024 14:57:09.189 | 7209 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Started MeuspilaBackendApplication in 6.504 seconds (process running for 7.485)
+13-02-2024 14:57:09.194 | 7214 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - API Meuspila iniciada com sucesso!
+13-02-2024 14:57:28.018 | 401  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+13-02-2024 14:57:28.188 | 571  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+13-02-2024 14:57:28.643 | 1026 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.1 with PID 15582 (/home/jonathan/projetos/backend-meuspila/target/classes started by jonathan in /home/jonathan/projetos/backend-meuspila)
+13-02-2024 14:57:28.644 | 1027 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+13-02-2024 14:57:33.766 | 6149 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Started MeuspilaBackendApplication in 5.564 seconds (process running for 6.388)
+13-02-2024 14:57:33.774 | 6157 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - API Meuspila iniciada com sucesso!
+13-02-2024 14:57:54.758 | 27141 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+13-02-2024 14:57:54.772 | 27155 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+13-02-2024 14:58:34.673 | 67056 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+13-02-2024 14:58:34.674 | 67057 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+02-04-2025 19:51:05.156 | 185  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 19:51:05.253 | 282  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 19:51:05.472 | 501  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.6 with PID 10808 (D:\Projetos\backend-meuspila\target\classes started by jonat in D:\Projetos\backend-meuspila)
+02-04-2025 19:51:05.473 | 502  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+02-04-2025 19:52:22.212 | 161  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 19:52:22.314 | 263  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 19:52:22.557 | 506  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.6 with PID 12012 (D:\Projetos\backend-meuspila\target\classes started by jonat in D:\Projetos\backend-meuspila)
+02-04-2025 19:52:22.557 | 506  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+02-04-2025 19:52:25.315 | 3264 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Started MeuspilaBackendApplication in 2.997 seconds (process running for 3.571)
+02-04-2025 19:52:25.317 | 3266 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - API Meuspila iniciada com sucesso!
+02-04-2025 19:52:50.024 | 27973 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 19:52:50.049 | 27998 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.6 with PID 12012 (D:\Projetos\backend-meuspila\target\classes started by jonat in D:\Projetos\backend-meuspila)
+02-04-2025 19:52:50.049 | 27998 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+02-04-2025 19:52:50.643 | 28592 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Started MeuspilaBackendApplication in 0.615 seconds (process running for 28.898)
+02-04-2025 19:52:50.644 | 28593 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - API Meuspila iniciada com sucesso!
+02-04-2025 19:52:52.093 | 30042 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 19:52:52.113 | 30062 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.6 with PID 12012 (D:\Projetos\backend-meuspila\target\classes started by jonat in D:\Projetos\backend-meuspila)
+02-04-2025 19:52:52.113 | 30062 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+02-04-2025 19:52:52.717 | 30666 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Started MeuspilaBackendApplication in 0.62 seconds (process running for 30.973)
+02-04-2025 19:52:52.719 | 30668 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - API Meuspila iniciada com sucesso!
+02-04-2025 20:06:13.715 | 831664 | [http-nio-8080-exec-6] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+02-04-2025 20:06:13.722 | 831671 | [http-nio-8080-exec-6] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+02-04-2025 20:12:43.152 | 1221101 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 20:12:43.178 | 1221127 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.6 with PID 12012 (D:\Projetos\backend-meuspila\target\classes started by jonat in D:\Projetos\backend-meuspila)
+02-04-2025 20:12:43.178 | 1221127 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+02-04-2025 20:12:43.794 | 1221743 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Started MeuspilaBackendApplication in 0.637 seconds (process running for 1222.049)
+02-04-2025 20:12:43.795 | 1221744 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - API Meuspila iniciada com sucesso!
+02-04-2025 20:12:45.237 | 1223186 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 20:12:45.255 | 1223204 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.6 with PID 12012 (D:\Projetos\backend-meuspila\target\classes started by jonat in D:\Projetos\backend-meuspila)
+02-04-2025 20:12:45.255 | 1223204 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+02-04-2025 20:12:45.703 | 1223652 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Started MeuspilaBackendApplication in 0.463 seconds (process running for 1223.959)
+02-04-2025 20:12:45.704 | 1223653 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - API Meuspila iniciada com sucesso!
+02-04-2025 20:16:55.406 | 175  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 20:16:55.500 | 269  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 20:16:55.749 | 518  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.6 with PID 3296 (D:\Projetos\backend-meuspila\target\classes started by jonat in D:\Projetos\backend-meuspila)
+02-04-2025 20:16:55.749 | 518  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+02-04-2025 20:16:58.664 | 3433 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Started MeuspilaBackendApplication in 3.16 seconds (process running for 3.771)
+02-04-2025 20:16:58.667 | 3436 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - API Meuspila iniciada com sucesso!
+02-04-2025 20:17:22.411 | 27180 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+02-04-2025 20:17:22.419 | 27188 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+02-04-2025 20:17:23.659 | 28428 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+02-04-2025 20:17:23.659 | 28428 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+02-04-2025 20:19:14.473 | 139242 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 20:19:14.500 | 139269 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.6 with PID 3296 (D:\Projetos\backend-meuspila\target\classes started by jonat in D:\Projetos\backend-meuspila)
+02-04-2025 20:19:14.500 | 139269 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+02-04-2025 20:19:15.076 | 139845 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Started MeuspilaBackendApplication in 0.598 seconds (process running for 140.183)
+02-04-2025 20:19:15.077 | 139846 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - API Meuspila iniciada com sucesso!
+02-04-2025 20:19:33.899 | 153  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 20:19:33.991 | 245  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 20:19:34.215 | 469  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.6 with PID 14772 (D:\Projetos\backend-meuspila\target\classes started by jonat in D:\Projetos\backend-meuspila)
+02-04-2025 20:19:34.215 | 469  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+02-04-2025 20:27:51.978 | 167  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 20:27:52.074 | 263  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 20:27:52.308 | 497  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.6 with PID 19852 (D:\Projetos\backend-meuspila\target\classes started by jonat in D:\Projetos\backend-meuspila)
+02-04-2025 20:27:52.308 | 497  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+02-04-2025 20:28:21.284 | 156  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 20:28:21.380 | 252  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 20:28:21.615 | 487  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.6 with PID 8464 (D:\Projetos\backend-meuspila\target\classes started by jonat in D:\Projetos\backend-meuspila)
+02-04-2025 20:28:21.616 | 488  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+02-04-2025 20:28:44.770 | 198  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 20:28:44.879 | 307  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 20:28:45.112 | 540  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.6 with PID 12240 (D:\Projetos\backend-meuspila\target\classes started by jonat in D:\Projetos\backend-meuspila)
+02-04-2025 20:28:45.113 | 541  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+02-04-2025 20:30:21.726 | 173  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 20:30:21.834 | 281  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 20:30:22.082 | 529  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.6 with PID 14128 (D:\Projetos\backend-meuspila\target\classes started by jonat in D:\Projetos\backend-meuspila)
+02-04-2025 20:30:22.083 | 530  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+02-04-2025 20:30:45.451 | 159  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 20:30:45.553 | 261  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 20:30:45.789 | 497  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.6 with PID 5184 (D:\Projetos\backend-meuspila\target\classes started by jonat in D:\Projetos\backend-meuspila)
+02-04-2025 20:30:45.790 | 498  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+02-04-2025 20:32:08.734 | 159  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 20:32:08.835 | 260  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 20:32:09.065 | 490  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.6 with PID 5128 (D:\Projetos\backend-meuspila\target\classes started by jonat in D:\Projetos\backend-meuspila)
+02-04-2025 20:32:09.066 | 491  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+02-04-2025 20:32:37.194 | 160  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 20:32:37.285 | 251  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 20:32:37.505 | 471  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.6 with PID 16620 (D:\Projetos\backend-meuspila\target\classes started by jonat in D:\Projetos\backend-meuspila)
+02-04-2025 20:32:37.506 | 472  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+02-04-2025 20:33:01.501 | 155  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 20:33:01.596 | 250  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 20:33:01.819 | 473  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.6 with PID 16060 (D:\Projetos\backend-meuspila\target\classes started by jonat in D:\Projetos\backend-meuspila)
+02-04-2025 20:33:01.820 | 474  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+02-04-2025 20:33:04.397 | 3051 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Started MeuspilaBackendApplication in 2.797 seconds (process running for 3.364)
+02-04-2025 20:33:04.399 | 3053 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - API Meuspila iniciada com sucesso!
+02-04-2025 20:33:11.930 | 10584 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+02-04-2025 20:33:11.939 | 10593 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+02-04-2025 20:35:33.847 | 157  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 20:35:33.941 | 251  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 20:35:34.172 | 482  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.6 with PID 16412 (D:\Projetos\backend-meuspila\target\classes started by jonat in D:\Projetos\backend-meuspila)
+02-04-2025 20:35:34.174 | 484  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+02-04-2025 20:36:39.391 | 161  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 20:36:39.489 | 259  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+02-04-2025 20:36:39.719 | 489  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.6 with PID 5464 (D:\Projetos\backend-meuspila\target\classes started by jonat in D:\Projetos\backend-meuspila)
+02-04-2025 20:36:39.720 | 490  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+02-04-2025 20:36:42.341 | 3111 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Started MeuspilaBackendApplication in 2.848 seconds (process running for 3.439)
+02-04-2025 20:36:42.343 | 3113 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - API Meuspila iniciada com sucesso!
+02-04-2025 20:37:01.495 | 22265 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+02-04-2025 20:37:01.511 | 22281 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+02-04-2025 20:50:10.588 | 811358 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+02-04-2025 20:50:10.589 | 811359 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+02-04-2025 20:50:20.575 | 821345 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+02-04-2025 20:50:20.576 | 821346 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+02-04-2025 20:53:21.073 | 1001843 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+02-04-2025 20:53:21.074 | 1001844 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+02-04-2025 20:53:26.532 | 1007302 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+02-04-2025 20:53:26.532 | 1007302 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+02-04-2025 20:55:04.960 | 1105730 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+02-04-2025 20:55:04.961 | 1105731 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+02-04-2025 20:55:40.883 | 1141653 | [http-nio-8080-exec-6] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+02-04-2025 20:55:40.883 | 1141653 | [http-nio-8080-exec-6] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+02-04-2025 20:55:55.451 | 1156221 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+02-04-2025 20:55:55.452 | 1156222 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+02-04-2025 20:58:00.459 | 1281229 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+02-04-2025 20:58:00.460 | 1281230 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+02-04-2025 20:58:16.257 | 1297027 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Criando uma nova finance
+02-04-2025 20:58:16.272 | 1297042 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Finance criada com sucesso
+02-04-2025 20:59:11.897 | 1352667 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 20:59:11.906 | 1352676 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 20:59:20.170 | 1360940 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+02-04-2025 20:59:20.171 | 1360941 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+02-04-2025 20:59:20.196 | 1360966 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 20:59:20.200 | 1360970 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 20:59:20.206 | 1360976 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 20:59:20.210 | 1360980 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 20:59:25.909 | 1366679 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Criando uma nova finance
+02-04-2025 20:59:25.911 | 1366681 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Finance criada com sucesso
+02-04-2025 20:59:27.152 | 1367922 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 20:59:27.157 | 1367927 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 21:00:29.243 | 1430013 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+02-04-2025 21:00:29.244 | 1430014 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+02-04-2025 21:00:29.262 | 1430032 | [http-nio-8080-exec-6] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 21:00:29.265 | 1430035 | [http-nio-8080-exec-6] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 21:00:29.272 | 1430042 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 21:00:29.283 | 1430053 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 21:00:44.282 | 1445052 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Criando uma nova finance
+02-04-2025 21:00:44.283 | 1445053 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Finance criada com sucesso
+02-04-2025 21:00:45.992 | 1446762 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 21:00:45.997 | 1446767 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 21:04:26.159 | 1666929 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+02-04-2025 21:04:26.159 | 1666929 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+02-04-2025 21:04:26.179 | 1666949 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 21:04:26.182 | 1666952 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 21:04:26.188 | 1666958 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 21:04:26.191 | 1666961 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 21:04:37.978 | 1678748 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Criando uma nova finance
+02-04-2025 21:04:37.980 | 1678750 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Finance criada com sucesso
+02-04-2025 21:04:38.962 | 1679732 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 21:04:38.965 | 1679735 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 21:06:31.739 | 1792509 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+02-04-2025 21:06:31.739 | 1792509 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+02-04-2025 21:14:31.350 | 2272120 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+02-04-2025 21:14:31.350 | 2272120 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+02-04-2025 21:14:31.367 | 2272137 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 21:14:31.372 | 2272142 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 21:14:31.379 | 2272149 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 21:14:31.382 | 2272152 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 21:14:52.455 | 2293225 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Criando uma nova finance
+02-04-2025 21:14:52.458 | 2293228 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Finance criada com sucesso
+02-04-2025 21:14:52.470 | 2293240 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 21:14:52.473 | 2293243 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 21:15:00.451 | 2301221 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Criando uma nova finance
+02-04-2025 21:15:00.455 | 2301225 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Finance criada com sucesso
+02-04-2025 21:15:00.467 | 2301237 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 21:15:00.471 | 2301241 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 21:39:13.406 | 3754176 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+02-04-2025 21:39:13.406 | 3754176 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+02-04-2025 21:39:13.421 | 3754191 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 21:39:13.425 | 3754195 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 21:39:13.431 | 3754201 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 21:39:13.434 | 3754204 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 22:10:04.997 | 5605767 | [http-nio-8080-exec-6] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 22:10:05.002 | 5605772 | [http-nio-8080-exec-6] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 22:10:05.009 | 5605779 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 22:10:05.013 | 5605783 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 22:10:21.675 | 5622445 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+02-04-2025 22:10:21.676 | 5622446 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+02-04-2025 22:10:21.693 | 5622463 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 22:10:21.697 | 5622467 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 22:10:21.702 | 5622472 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 22:10:21.705 | 5622475 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 22:10:31.290 | 5632060 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Criando uma nova finance
+02-04-2025 22:10:31.293 | 5632063 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Finance criada com sucesso
+02-04-2025 22:10:31.308 | 5632078 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 22:10:31.311 | 5632081 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 22:10:39.797 | 5640567 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Criando uma nova finance
+02-04-2025 22:10:39.799 | 5640569 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Finance criada com sucesso
+02-04-2025 22:10:39.809 | 5640579 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 22:10:39.813 | 5640583 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 22:10:52.254 | 5653024 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Criando uma nova finance
+02-04-2025 22:10:52.256 | 5653026 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Finance criada com sucesso
+02-04-2025 22:10:52.267 | 5653037 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 22:10:52.270 | 5653040 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 22:12:28.906 | 5749676 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 22:12:28.909 | 5749679 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 22:12:35.580 | 5756350 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+02-04-2025 22:12:35.580 | 5756350 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+02-04-2025 22:13:09.002 | 5789772 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+02-04-2025 22:13:09.003 | 5789773 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+02-04-2025 22:13:51.347 | 5832117 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+02-04-2025 22:13:51.348 | 5832118 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+02-04-2025 22:15:30.761 | 5931531 | [http-nio-8080-exec-6] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+02-04-2025 22:15:30.762 | 5931532 | [http-nio-8080-exec-6] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+02-04-2025 22:18:11.260 | 6092030 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+02-04-2025 22:18:11.260 | 6092030 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+02-04-2025 22:25:18.941 | 6519711 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+02-04-2025 22:25:18.942 | 6519712 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+02-04-2025 22:31:33.683 | 6894453 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+02-04-2025 22:31:33.683 | 6894453 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+02-04-2025 22:34:20.926 | 7061696 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+02-04-2025 22:34:20.927 | 7061697 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+02-04-2025 22:34:20.950 | 7061720 | [http-nio-8080-exec-6] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 22:34:20.955 | 7061725 | [http-nio-8080-exec-6] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 22:34:20.962 | 7061732 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 22:34:20.967 | 7061737 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 22:34:30.394 | 7071164 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Criando uma nova finance
+02-04-2025 22:34:30.397 | 7071167 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Finance criada com sucesso
+02-04-2025 22:34:30.410 | 7071180 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 22:34:30.414 | 7071184 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 22:34:38.782 | 7079552 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Criando uma nova finance
+02-04-2025 22:34:38.784 | 7079554 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Finance criada com sucesso
+02-04-2025 22:34:38.796 | 7079566 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 22:34:38.800 | 7079570 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 22:40:29.800 | 7430570 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 22:40:29.800 | 7430570 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 22:40:29.804 | 7430574 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 22:40:29.804 | 7430574 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 22:54:27.613 | 8268383 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+02-04-2025 22:54:27.613 | 8268383 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+02-04-2025 22:54:27.628 | 8268398 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 22:54:27.632 | 8268402 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 22:54:27.638 | 8268408 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 22:54:27.641 | 8268411 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 22:57:32.157 | 8452927 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 22:57:32.157 | 8452927 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 22:57:32.161 | 8452931 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 22:57:32.161 | 8452931 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 23:01:24.530 | 8685300 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 23:01:24.530 | 8685300 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 23:01:24.532 | 8685302 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 23:01:24.532 | 8685302 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 23:01:38.439 | 8699209 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Criando uma nova finance
+02-04-2025 23:01:38.442 | 8699212 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Finance criada com sucesso
+02-04-2025 23:01:38.455 | 8699225 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 23:01:38.458 | 8699228 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 23:01:49.275 | 8710045 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Criando uma nova finance
+02-04-2025 23:01:49.277 | 8710047 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Finance criada com sucesso
+02-04-2025 23:01:49.325 | 8710095 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 23:01:49.327 | 8710097 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 23:02:00.152 | 8720922 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Criando uma nova finance
+02-04-2025 23:02:00.154 | 8720924 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Finance criada com sucesso
+02-04-2025 23:02:00.162 | 8720932 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 23:02:00.165 | 8720935 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 23:02:07.257 | 8728027 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Criando uma nova finance
+02-04-2025 23:02:07.259 | 8728029 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Finance criada com sucesso
+02-04-2025 23:02:07.270 | 8728040 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 23:02:07.272 | 8728042 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 23:02:29.598 | 8750368 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Criando uma nova finance
+02-04-2025 23:02:29.600 | 8750370 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Finance criada com sucesso
+02-04-2025 23:02:29.610 | 8750380 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 23:02:29.613 | 8750383 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 23:02:44.937 | 8765707 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 23:02:44.942 | 8765712 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 23:02:44.947 | 8765717 | [http-nio-8080-exec-6] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 23:02:44.951 | 8765721 | [http-nio-8080-exec-6] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 23:03:14.083 | 8794853 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+02-04-2025 23:03:14.083 | 8794853 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+02-04-2025 23:03:14.105 | 8794875 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 23:03:14.110 | 8794880 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+02-04-2025 23:03:14.114 | 8794884 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+02-04-2025 23:03:14.116 | 8794886 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!

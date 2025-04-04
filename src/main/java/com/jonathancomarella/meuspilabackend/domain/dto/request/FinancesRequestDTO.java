@@ -1,6 +1,7 @@
 package com.jonathancomarella.meuspilabackend.domain.dto.request;
 
 
+import com.jonathancomarella.meuspilabackend.domain.StatusFinance;
 import com.jonathancomarella.meuspilabackend.domain.User;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
@@ -22,6 +23,7 @@ public class FinancesRequestDTO {
         private BigDecimal amount;
         @NotBlank
         private String typeFinances;
+        private StatusFinance status;
         private boolean repeat;
         private boolean active;
         private User userEmail;
