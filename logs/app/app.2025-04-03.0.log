@@ -1,0 +1,309 @@
+03-04-2025 21:08:28.157 | 210  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+03-04-2025 21:08:28.269 | 322  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+03-04-2025 21:08:28.508 | 561  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.6 with PID 25480 (D:\Projetos\backend-meuspila\target\classes started by jonat in D:\Projetos\backend-meuspila)
+03-04-2025 21:08:28.509 | 562  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+03-04-2025 21:09:10.517 | 179  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+03-04-2025 21:09:10.630 | 292  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+03-04-2025 21:09:10.905 | 567  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.6 with PID 17784 (D:\Projetos\backend-meuspila\target\classes started by jonat in D:\Projetos\backend-meuspila)
+03-04-2025 21:09:10.906 | 568  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+03-04-2025 21:09:14.284 | 3946 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Started MeuspilaBackendApplication in 3.649 seconds (process running for 4.337)
+03-04-2025 21:09:14.287 | 3949 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - API Meuspila iniciada com sucesso!
+03-04-2025 21:16:29.987 | 185  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+03-04-2025 21:16:30.101 | 299  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+03-04-2025 21:16:30.355 | 553  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.6 with PID 17500 (D:\Projetos\backend-meuspila\target\classes started by jonat in D:\Projetos\backend-meuspila)
+03-04-2025 21:16:30.356 | 554  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+03-04-2025 21:16:33.232 | 3430 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Started MeuspilaBackendApplication in 3.126 seconds (process running for 3.782)
+03-04-2025 21:16:33.235 | 3433 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - API Meuspila iniciada com sucesso!
+03-04-2025 21:17:18.970 | 162  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+03-04-2025 21:17:19.063 | 255  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+03-04-2025 21:17:19.287 | 479  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.6 with PID 12772 (D:\Projetos\backend-meuspila\target\classes started by jonat in D:\Projetos\backend-meuspila)
+03-04-2025 21:17:19.288 | 480  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+03-04-2025 21:17:21.916 | 3108 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Started MeuspilaBackendApplication in 2.849 seconds (process running for 3.449)
+03-04-2025 21:17:21.918 | 3110 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - API Meuspila iniciada com sucesso!
+03-04-2025 21:19:04.690 | 105882 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+03-04-2025 21:19:04.705 | 105897 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+03-04-2025 21:19:04.745 | 105937 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 21:19:04.753 | 105945 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 21:19:04.762 | 105954 | [http-nio-8080-exec-6] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 21:19:04.764 | 105956 | [http-nio-8080-exec-6] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 21:19:13.325 | 114517 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Criando uma nova finance
+03-04-2025 21:19:13.339 | 114531 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Finance criada com sucesso
+03-04-2025 21:19:13.370 | 114562 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 21:19:13.375 | 114567 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 21:20:59.562 | 220754 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+03-04-2025 21:20:59.586 | 220778 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.6 with PID 12772 (D:\Projetos\backend-meuspila\target\classes started by jonat in D:\Projetos\backend-meuspila)
+03-04-2025 21:20:59.586 | 220778 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+03-04-2025 21:21:00.150 | 221342 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Started MeuspilaBackendApplication in 0.584 seconds (process running for 221.683)
+03-04-2025 21:21:00.151 | 221343 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - API Meuspila iniciada com sucesso!
+03-04-2025 21:21:53.277 | 274469 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+03-04-2025 21:21:53.295 | 274487 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.6 with PID 12772 (D:\Projetos\backend-meuspila\target\classes started by jonat in D:\Projetos\backend-meuspila)
+03-04-2025 21:21:53.295 | 274487 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+03-04-2025 21:21:53.757 | 274949 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Started MeuspilaBackendApplication in 0.477 seconds (process running for 275.29)
+03-04-2025 21:21:53.758 | 274950 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - API Meuspila iniciada com sucesso!
+03-04-2025 21:24:40.830 | 442022 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 21:24:40.834 | 442026 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 21:24:44.291 | 445483 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 21:24:44.294 | 445486 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 21:24:44.300 | 445492 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 21:24:44.303 | 445495 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 21:27:02.252 | 583444 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+03-04-2025 21:27:02.253 | 583445 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+03-04-2025 21:27:02.273 | 583465 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 21:27:02.277 | 583469 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 21:27:02.283 | 583475 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 21:27:02.286 | 583478 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 21:27:14.752 | 595944 | [http-nio-8080-exec-6] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Criando uma nova finance
+03-04-2025 21:27:14.754 | 595946 | [http-nio-8080-exec-6] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Finance criada com sucesso
+03-04-2025 21:27:14.767 | 595959 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 21:27:14.770 | 595962 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 21:27:17.901 | 599093 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 21:27:17.905 | 599097 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 21:27:17.913 | 599105 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 21:27:17.917 | 599109 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 21:30:57.767 | 818959 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+03-04-2025 21:30:57.768 | 818960 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+03-04-2025 21:32:14.805 | 895997 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 21:32:14.808 | 896000 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 21:33:03.799 | 944991 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 21:33:03.802 | 944994 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 21:33:05.635 | 946827 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 21:33:05.638 | 946830 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 21:33:05.643 | 946835 | [http-nio-8080-exec-6] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 21:33:05.646 | 946838 | [http-nio-8080-exec-6] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 21:33:10.382 | 951574 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Atualizou a Finance: eae567ca-400c-4235-94a6-521d922669bc
+03-04-2025 21:33:10.390 | 951582 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 21:33:10.392 | 951584 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 21:33:22.543 | 963735 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Atualizou a Finance: 39714e76-dd91-4195-bdb5-37951c63a0a2
+03-04-2025 21:33:22.550 | 963742 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 21:33:22.553 | 963745 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 21:34:48.548 | 1049740 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 21:34:48.551 | 1049743 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 21:34:48.556 | 1049748 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 21:34:48.559 | 1049751 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 21:38:22.802 | 1263994 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 21:38:22.804 | 1263996 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 21:38:25.438 | 1266630 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 21:38:25.441 | 1266633 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 21:38:25.447 | 1266639 | [http-nio-8080-exec-6] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 21:38:25.450 | 1266642 | [http-nio-8080-exec-6] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 21:40:30.687 | 1391879 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 21:40:30.691 | 1391883 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 21:40:30.696 | 1391888 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 21:40:30.699 | 1391891 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 21:42:04.334 | 1485526 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 21:42:04.338 | 1485530 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 21:42:04.343 | 1485535 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 21:42:04.345 | 1485537 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 21:50:59.171 | 2020363 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+03-04-2025 21:50:59.171 | 2020363 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+03-04-2025 21:52:26.036 | 2107228 | [http-nio-8080-exec-6] | INFO  | c.j.m.MeuspilaBackendApplication - Buscando todas finances
+03-04-2025 21:52:38.880 | 2120072 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - Buscando todas finances
+03-04-2025 21:52:44.138 | 2125330 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - Buscando todas finances
+03-04-2025 21:54:42.586 | 2243778 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 21:54:42.589 | 2243781 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 21:54:42.595 | 2243787 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 21:54:42.598 | 2243790 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 21:58:58.116 | 2499308 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 21:58:58.120 | 2499312 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 21:58:58.124 | 2499316 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 21:58:58.127 | 2499319 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 21:59:00.734 | 2501926 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 21:59:00.735 | 2501927 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 21:59:00.738 | 2501930 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 21:59:00.738 | 2501930 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:00:16.512 | 2577704 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:00:16.512 | 2577704 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:00:16.516 | 2577708 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:00:16.516 | 2577708 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:01:28.079 | 2649271 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:01:28.082 | 2649274 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:01:28.087 | 2649279 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:01:28.090 | 2649282 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:14:34.472 | 3435664 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:14:34.472 | 3435664 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:14:34.475 | 3435667 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:14:34.475 | 3435667 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:26:54.802 | 4175994 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:26:54.805 | 4175997 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:28:07.800 | 4248992 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:28:07.802 | 4248994 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:39:34.378 | 4935570 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+03-04-2025 22:39:34.378 | 4935570 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+03-04-2025 22:39:34.395 | 4935587 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:39:34.398 | 4935590 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:39:34.403 | 4935595 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:39:34.406 | 4935598 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:39:41.021 | 4942213 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Deletou Finance: eae567ca-400c-4235-94a6-521d922669bc
+03-04-2025 22:39:41.030 | 4942222 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:39:41.032 | 4942224 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:39:55.968 | 4957160 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Criando uma nova finance
+03-04-2025 22:39:55.970 | 4957162 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Finance criada com sucesso
+03-04-2025 22:39:55.982 | 4957174 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:39:55.985 | 4957177 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:43:17.809 | 5159001 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:43:17.811 | 5159003 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:44:20.356 | 5221548 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Criando uma nova finance
+03-04-2025 22:44:20.357 | 5221549 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Finance criada com sucesso
+03-04-2025 22:44:20.367 | 5221559 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:44:20.370 | 5221562 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:45:29.494 | 5290686 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Atualizou a Finance: 39714e76-dd91-4195-bdb5-37951c63a0a2
+03-04-2025 22:45:29.501 | 5290693 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:45:29.504 | 5290696 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:45:32.974 | 5294166 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Atualizou a Finance: 8e80668c-da7a-40ae-a405-e9e62938afba
+03-04-2025 22:45:32.980 | 5294172 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:45:32.983 | 5294175 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:45:38.418 | 5299610 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Atualizou a Finance: 8e80668c-da7a-40ae-a405-e9e62938afba
+03-04-2025 22:45:38.424 | 5299616 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:45:38.427 | 5299619 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:45:40.788 | 5301980 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Atualizou a Finance: 39714e76-dd91-4195-bdb5-37951c63a0a2
+03-04-2025 22:45:40.798 | 5301990 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:45:40.801 | 5301993 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:45:50.915 | 5312107 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:45:50.919 | 5312111 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:45:50.926 | 5312118 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:45:50.930 | 5312122 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:46:17.815 | 5339007 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Criando uma nova finance
+03-04-2025 22:46:17.817 | 5339009 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Finance criada com sucesso
+03-04-2025 22:46:17.827 | 5339019 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:46:17.830 | 5339022 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:48:14.737 | 5455929 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:48:14.741 | 5455933 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:48:14.746 | 5455938 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:48:14.748 | 5455940 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:49:52.423 | 5553615 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+03-04-2025 22:49:52.423 | 5553615 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+03-04-2025 22:49:52.441 | 5553633 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:49:52.446 | 5553638 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:49:52.451 | 5553643 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:49:52.453 | 5553645 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:50:00.955 | 5562147 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Deletou Finance: 39714e76-dd91-4195-bdb5-37951c63a0a2
+03-04-2025 22:50:00.962 | 5562154 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:50:00.964 | 5562156 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:50:02.013 | 5563205 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Deletou Finance: 8e80668c-da7a-40ae-a405-e9e62938afba
+03-04-2025 22:50:02.023 | 5563215 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:50:02.025 | 5563217 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:50:03.111 | 5564303 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Deletou Finance: 9f4b83d2-9c15-42b1-a247-d243e10df3f0
+03-04-2025 22:50:03.117 | 5564309 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:50:03.119 | 5564311 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:50:04.171 | 5565363 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Deletou Finance: b31f8a2c-f341-463a-b181-751cf4ecad46
+03-04-2025 22:50:04.176 | 5565368 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:50:04.177 | 5565369 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:50:12.141 | 5573333 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Criando uma nova finance
+03-04-2025 22:50:12.142 | 5573334 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Finance criada com sucesso
+03-04-2025 22:50:12.153 | 5573345 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:50:12.156 | 5573348 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:50:17.881 | 5579073 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Atualizou a Finance: f1f5bff4-2263-4b86-ad40-e98b77dfd9f7
+03-04-2025 22:50:17.888 | 5579080 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:50:17.890 | 5579082 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:50:26.617 | 5587809 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Criando uma nova finance
+03-04-2025 22:50:26.618 | 5587810 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Finance criada com sucesso
+03-04-2025 22:50:26.627 | 5587819 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:50:26.630 | 5587822 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:52:13.732 | 5694924 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Criando uma nova finance
+03-04-2025 22:52:13.734 | 5694926 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Finance criada com sucesso
+03-04-2025 22:52:13.745 | 5694937 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:52:13.748 | 5694940 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:52:23.010 | 5704202 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Deletou Finance: 1d47dc81-f855-46f6-9984-1b93932a9cd6
+03-04-2025 22:52:23.016 | 5704208 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:52:23.019 | 5704211 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:52:54.209 | 5735401 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Criando uma nova finance
+03-04-2025 22:52:54.211 | 5735403 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Finance criada com sucesso
+03-04-2025 22:52:54.221 | 5735413 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:52:54.223 | 5735415 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:52:58.012 | 5739204 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Criando uma nova finance
+03-04-2025 22:52:58.013 | 5739205 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Finance criada com sucesso
+03-04-2025 22:52:58.022 | 5739214 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:52:58.025 | 5739217 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:53:01.460 | 5742652 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Deletou Finance: 4092aeb1-29d7-446c-9168-42473c304963
+03-04-2025 22:53:01.469 | 5742661 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:53:01.471 | 5742663 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:53:05.502 | 5746694 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Deletou Finance: f1f5bff4-2263-4b86-ad40-e98b77dfd9f7
+03-04-2025 22:53:05.507 | 5746699 | [http-nio-8080-exec-6] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:53:05.509 | 5746701 | [http-nio-8080-exec-6] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:53:15.154 | 5756346 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Criando uma nova finance
+03-04-2025 22:53:15.155 | 5756347 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Finance criada com sucesso
+03-04-2025 22:53:15.165 | 5756357 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:53:15.167 | 5756359 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:53:16.860 | 5758052 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Deletou Finance: c1d277b3-ec0c-4c61-92be-51c0e20bdce0
+03-04-2025 22:53:16.867 | 5758059 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:53:16.869 | 5758061 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:53:18.370 | 5759562 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Deletou Finance: d7570784-93fc-450e-b584-f3f0564fd739
+03-04-2025 22:53:18.375 | 5759567 | [http-nio-8080-exec-6] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:53:18.377 | 5759569 | [http-nio-8080-exec-6] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:53:25.922 | 5767114 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Criando uma nova finance
+03-04-2025 22:53:25.924 | 5767116 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Finance criada com sucesso
+03-04-2025 22:53:25.936 | 5767128 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:53:25.938 | 5767130 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:54:31.511 | 5832703 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Criando uma nova finance
+03-04-2025 22:54:31.512 | 5832704 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Finance criada com sucesso
+03-04-2025 22:54:31.521 | 5832713 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:54:31.523 | 5832715 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:55:02.575 | 5863767 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Atualizou a Finance: 3f993a14-ffb0-4917-8b60-f5c5a86d901a
+03-04-2025 22:55:02.584 | 5863776 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:55:02.586 | 5863778 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:55:12.202 | 5873394 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Atualizou a Finance: baaf3582-e925-482f-9a23-f72e95909102
+03-04-2025 22:55:12.209 | 5873401 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:55:12.211 | 5873403 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:55:16.401 | 5877593 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Atualizou a Finance: baaf3582-e925-482f-9a23-f72e95909102
+03-04-2025 22:55:16.406 | 5877598 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:55:16.408 | 5877600 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:55:32.680 | 5893872 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Atualizou a Finance: baaf3582-e925-482f-9a23-f72e95909102
+03-04-2025 22:55:32.687 | 5893879 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:55:32.689 | 5893881 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:55:34.818 | 5896010 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Atualizou a Finance: 3f993a14-ffb0-4917-8b60-f5c5a86d901a
+03-04-2025 22:55:34.823 | 5896015 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:55:34.825 | 5896017 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:55:59.007 | 5920199 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:55:59.009 | 5920201 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:55:59.013 | 5920205 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:55:59.015 | 5920207 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:57:30.027 | 6011219 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+03-04-2025 22:57:30.028 | 6011220 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+03-04-2025 22:57:30.044 | 6011236 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:57:30.047 | 6011239 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 22:57:30.051 | 6011243 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 22:57:30.053 | 6011245 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 23:00:13.019 | 6174211 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+03-04-2025 23:00:13.020 | 6174212 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+03-04-2025 23:00:13.034 | 6174226 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 23:00:13.038 | 6174230 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 23:00:13.043 | 6174235 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 23:00:13.046 | 6174238 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 23:03:32.808 | 6374000 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Atualizou a Finance: 3f993a14-ffb0-4917-8b60-f5c5a86d901a
+03-04-2025 23:03:32.815 | 6374007 | [http-nio-8080-exec-6] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 23:03:32.819 | 6374011 | [http-nio-8080-exec-6] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 23:03:34.860 | 6376052 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Atualizou a Finance: baaf3582-e925-482f-9a23-f72e95909102
+03-04-2025 23:03:34.870 | 6376062 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 23:03:34.872 | 6376064 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 23:04:00.087 | 6401279 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Criando uma nova finance
+03-04-2025 23:04:00.088 | 6401280 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Finance criada com sucesso
+03-04-2025 23:04:00.097 | 6401289 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 23:04:00.099 | 6401291 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 23:04:59.991 | 6461183 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Atualizou a Finance: b4be1973-7c48-44cb-9cd7-1f0999bb8967
+03-04-2025 23:04:59.997 | 6461189 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 23:04:59.999 | 6461191 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 23:08:44.678 | 6685870 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: amanda@gmail.com
+03-04-2025 23:08:44.678 | 6685870 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: amanda@gmail.com
+03-04-2025 23:08:44.709 | 6685901 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - amanda@gmail.com - Buscando todas as finances
+03-04-2025 23:08:44.710 | 6685902 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - amanda@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 23:08:44.714 | 6685906 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - amanda@gmail.com - Buscando todas as finances
+03-04-2025 23:08:44.716 | 6685908 | [http-nio-8080-exec-7] | INFO  | c.j.m.MeuspilaBackendApplication - amanda@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 23:08:58.191 | 6699383 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan@gmail.com
+03-04-2025 23:08:58.191 | 6699383 | [http-nio-8080-exec-10] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan@gmail.com
+03-04-2025 23:08:58.218 | 6699410 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 23:08:58.220 | 6699412 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 23:08:58.225 | 6699417 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Buscando todas as finances
+03-04-2025 23:08:58.228 | 6699420 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 23:23:15.566 | 7556758 | [http-nio-8080-exec-6] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: amanda2@gmail.com
+03-04-2025 23:23:15.566 | 7556758 | [http-nio-8080-exec-6] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: amanda2@gmail.com
+03-04-2025 23:23:15.596 | 7556788 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - amanda2@gmail.com - Buscando todas as finances
+03-04-2025 23:23:15.598 | 7556790 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - amanda2@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 23:23:15.602 | 7556794 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - amanda2@gmail.com - Buscando todas as finances
+03-04-2025 23:23:15.603 | 7556795 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - amanda2@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 23:23:58.261 | 7599453 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - amanda2@gmail.com - Criando uma nova finance
+03-04-2025 23:23:58.262 | 7599454 | [http-nio-8080-exec-3] | INFO  | c.j.m.MeuspilaBackendApplication - amanda2@gmail.com - Finance criada com sucesso
+03-04-2025 23:23:58.275 | 7599467 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - amanda2@gmail.com - Buscando todas as finances
+03-04-2025 23:23:58.277 | 7599469 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - amanda2@gmail.com - Todas finances retornadas com sucesso!
+03-04-2025 23:24:04.366 | 7605558 | [http-nio-8080-exec-6] | INFO  | c.j.m.MeuspilaBackendApplication - amanda2@gmail.com - Deletou Finance: 8921dc4f-2a24-466e-bad9-8d5e828abc60
+03-04-2025 23:24:04.373 | 7605565 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - amanda2@gmail.com - Buscando todas as finances
+03-04-2025 23:24:04.375 | 7605567 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - amanda2@gmail.com - Todas finances retornadas com sucesso!
