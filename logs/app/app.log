@@ -37,3 +37,17 @@
 09-04-2025 01:05:40.874 | 538  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
 09-04-2025 01:06:11.963 | 156  | [main] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
 09-04-2025 01:06:12.057 | 250  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+09-04-2025 01:06:12.284 | 477  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.6 with PID 2672 (D:\Projetos\backend-meuspila\target\classes started by jonat in D:\Projetos\backend-meuspila)
+09-04-2025 01:06:12.284 | 477  | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+09-04-2025 01:06:15.180 | 3373 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Started MeuspilaBackendApplication in 3.118 seconds (process running for 3.7)
+09-04-2025 01:06:15.181 | 3374 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - API Meuspila iniciada com sucesso!
+09-04-2025 01:10:38.594 | 266787 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+09-04-2025 01:10:38.617 | 266810 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.6 with PID 2672 (D:\Projetos\backend-meuspila\target\classes started by jonat in D:\Projetos\backend-meuspila)
+09-04-2025 01:10:38.617 | 266810 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+09-04-2025 01:10:39.219 | 267412 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Started MeuspilaBackendApplication in 0.622 seconds (process running for 267.74)
+09-04-2025 01:10:39.221 | 267414 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - API Meuspila iniciada com sucesso!
+09-04-2025 01:10:40.670 | 268863 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Iniciando API Meuspila
+09-04-2025 01:10:40.687 | 268880 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Starting MeuspilaBackendApplication using Java 21.0.6 with PID 2672 (D:\Projetos\backend-meuspila\target\classes started by jonat in D:\Projetos\backend-meuspila)
+09-04-2025 01:10:40.687 | 268880 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - No active profile set, falling back to 1 default profile: "default"
+09-04-2025 01:10:41.161 | 269354 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - Started MeuspilaBackendApplication in 0.489 seconds (process running for 269.682)
+09-04-2025 01:10:41.162 | 269355 | [restartedMain] | INFO  | c.j.m.MeuspilaBackendApplication - API Meuspila iniciada com sucesso!
