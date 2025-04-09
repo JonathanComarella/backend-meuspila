@@ -67,7 +67,6 @@ public class SecurityConfigurations {
 
     @Bean
     CorsConfigurationSource corsConfigurationSource() {
-
         String[] origins = corsOrigins.split(",");
 
         CorsConfiguration corsConfig = new CorsConfiguration();
