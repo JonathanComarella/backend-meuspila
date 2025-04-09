@@ -8,3 +8,18 @@
 09-04-2025 00:02:59.390 | 16902 | [http-nio-8080-exec-2] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan3@gmail.com
 09-04-2025 00:02:59.466 | 16978 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan3@gmail.com - Buscando todas as finances
 09-04-2025 00:02:59.474 | 16986 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan3@gmail.com - Todas finances retornadas com sucesso!
+09-04-2025 00:06:00.590 | 198102 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan3@gmail.com - Buscando todas as finances
+09-04-2025 00:06:00.597 | 198109 | [http-nio-8080-exec-8] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan3@gmail.com - Todas finances retornadas com sucesso!
+09-04-2025 00:06:06.331 | 203843 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan3@gmail.com - Criando uma nova finance
+09-04-2025 00:06:06.356 | 203868 | [http-nio-8080-exec-9] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan3@gmail.com - Finance criada com sucesso
+09-04-2025 00:06:06.383 | 203895 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan3@gmail.com - Buscando todas as finances
+09-04-2025 00:06:06.387 | 203899 | [http-nio-8080-exec-1] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan3@gmail.com - Todas finances retornadas com sucesso!
+09-04-2025 00:15:08.329 | 745841 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - Gerando token para: jonathan3@gmail.com
+09-04-2025 00:15:08.330 | 745842 | [http-nio-8080-exec-4] | INFO  | c.j.m.MeuspilaBackendApplication - Token gerado com sucesso para: jonathan3@gmail.com
+09-04-2025 00:15:08.354 | 745866 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan3@gmail.com - Buscando todas as finances
+09-04-2025 00:15:08.359 | 745871 | [http-nio-8080-exec-5] | INFO  | c.j.m.MeuspilaBackendApplication - jonathan3@gmail.com - Todas finances retornadas com sucesso!
+09-04-2025 00:29:29.409 | 615  | [main] | INFO  | c.j.m.MeuspilaBackendApplicationTests - Starting MeuspilaBackendApplicationTests using Java 21.0.6 with PID 22392 (started by jonat in D:\Projetos\backend-meuspila)
+09-04-2025 00:29:29.409 | 615  | [main] | INFO  | c.j.m.MeuspilaBackendApplicationTests - No active profile set, falling back to 1 default profile: "default"
+09-04-2025 00:29:32.784 | 3990 | [main] | INFO  | c.j.m.MeuspilaBackendApplicationTests - Started MeuspilaBackendApplicationTests in 3.558 seconds (process running for 4.561)
+09-04-2025 00:29:57.020 | 616  | [main] | INFO  | c.j.m.MeuspilaBackendApplicationTests - Starting MeuspilaBackendApplicationTests using Java 21.0.6 with PID 9880 (started by jonat in D:\Projetos\backend-meuspila)
+09-04-2025 00:29:57.020 | 616  | [main] | INFO  | c.j.m.MeuspilaBackendApplicationTests - No active profile set, falling back to 1 default profile: "default"
